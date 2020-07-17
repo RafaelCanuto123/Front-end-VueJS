@@ -19,7 +19,7 @@ npm run build
 ```
 npm run lint
 ```
-###instalar o yarn
+###instalar o yarn: 
 choco install yarn
 
 ### Customize configuration
